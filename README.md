@@ -3,6 +3,9 @@
 This repository will contain a series of scripts and notebooks to help people get acclimated to using Python for scientific publications.  
 Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)  
 
+
+For best latex implementation refer to [this](https://jwalton.info/Embed-Publication-Matplotlib-Latex/) web site
+
 ---
 
 ### <b>Table of Contents</b>  

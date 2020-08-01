@@ -4,7 +4,7 @@ This repository will contain a series of scripts and notebooks to help people ge
 Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)  
 
 
-### For an optimized latex thesis see [this](https://jwalton.info/Embed-Publication-Matplotlib-Latex/)  and for beamer see [this](https://jwalton.info/Matplotlib-metropolis-beamer/)
+### For an optimized latex integration see [this](https://jwalton.info/Embed-Publication-Matplotlib-Latex/)  and for beamer see [this](https://jwalton.info/Matplotlib-metropolis-beamer/)
 
 ---
 

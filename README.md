@@ -4,7 +4,7 @@ This repository will contain a series of scripts and notebooks to help people ge
 Follow me at: [@naveen.venkatesan](https://medium.com/@naveen.venkatesan)  
 
 
-## `For an optimized latex implementation refer to [this](https://jwalton.info/Embed-Publication-Matplotlib-Latex/) web site`
+### For an optimized latex implementation refer to [this](https://jwalton.info/Embed-Publication-Matplotlib-Latex/) web site
 
 ---
 
